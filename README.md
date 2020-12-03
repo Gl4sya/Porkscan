@@ -1,5 +1,5 @@
 # Porkscan:
-Portscan básico que fiz juntamente com o march0s1as, aproveitem!
+Portscan básico que fiz junto com o march0s1as, aproveitem!
 
 # Baixar:
 git clone https://github.com/Gl4sya/Porkscan
