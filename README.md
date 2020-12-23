@@ -1,4 +1,4 @@
-![alt text](https://github.com/Gl4sya/Porkscan/blob/main/logo.jpg)
+![alt text](https://github.com/Gl4sya/Porkscan/blob/main/imgs/logo.jpg)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Gl4sya/Porkscan?style=plastic)
 ![GitHub language count](https://img.shields.io/github/languages/count/Gl4sya/Porkscan?style=plastic)
