@@ -5,7 +5,7 @@
 ![GitHub repo size](https://img.shields.io/github/languages/top/Gl4sya/Porkscan?style=plastic)
 
 # 🐷 | Porkscan:
-## A basic portscan (does not identify services)
+## A simple portscan (does not identify services)
 
 # 💻 | How to install:
 ## git clone https://github.com/Gl4sya/Porkscan
@@ -13,6 +13,11 @@
 # ⌨ | How to start:
 ## cd Porkscan\ v2.0/
 ## python3 Porkscan.py
+
+# 💀 | Demonstration:
+![alt text](https://github.com/Gl4sya/Porkscan/blob/main/imgs/Screenshot_20201223_172524.png)
+
+![alt text](https://github.com/Gl4sya/Porkscan/blob/main/imgs/Screenshot_20201223_172829.png)
 
 # 🦉 | FML
 ## March0s1as
