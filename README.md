@@ -1,5 +1,6 @@
-# Porkscan:
-Portscan básico que fiz junto com o march0s1as, aproveitem!
+
+# 🐷 | Porkscan:
+## A basic portscan (does not identify services)
 
 # Baixar:
 git clone https://github.com/Gl4sya/Porkscan
