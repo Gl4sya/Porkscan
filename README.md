@@ -11,9 +11,9 @@
  ► git clone https://github.com/Gl4sya/Porkscan
 
 ## ⌨ | How to start:
- ► cd Porkscan
- ► cd Porkscan\ v2.0/
- ► python3 Porkscan.py
+ - ► cd Porkscan
+ - ► cd Porkscan\ v2.0/
+ - ► python3 Porkscan.py
 
 ## 💀 | Demonstration:
 ![alt text](https://github.com/Gl4sya/Porkscan/blob/main/imgs/Screenshot_20201223_172524.png)
